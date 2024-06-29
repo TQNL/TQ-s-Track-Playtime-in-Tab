@@ -1,5 +1,6 @@
 # TQ-s-Track-Playtime-in-Tab
-Track each player's total playtime (in minutes), to be displayed in the tab menu.
+Track each player's total playtime (in minutes), to be displayed in the tab menu. 
+Inspired by [Vanilla Tweaks](https://vanillatweaks.net/picker/datapacks/)' Track Raw Statistics.
 
 ### notice
 - If you want to support small creators like me, you can turn off ad blocker.

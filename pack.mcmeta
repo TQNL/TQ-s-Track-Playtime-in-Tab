@@ -1,0 +1,6 @@
+{
+    "pack":{
+        "pack_format": 48,
+        "description": "Track each player's total playtime, to be displayed in the tab menu. By ThijquintNL."
+    }
+}

@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "id": "minecraft:clock"
+      "item": "minecraft:clock"
     },
     "title": "TQ's Track Playtime in Tab",
     "description": "Track each player's total playtime, to be displayed in the tab menu.",
